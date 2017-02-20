@@ -42,11 +42,17 @@ Linux Installation Videos
 
 Turkish
   https://www.youtube.com/watch?v=mCmZj2JcLVA
+  
   https://www.youtube.com/watch?v=inI5JYBu-rU
+  
   https://www.youtube.com/watch?v=NTJjpucdqew
+  
   https://www.youtube.com/watch?v=UjamgZ6vF0k
+  
   https://www.youtube.com/watch?v=PBDaSzZBlqo
+  
   https://www.youtube.com/watch?v=IdVXnRR3qL8
+  
   https://www.youtube.com/watch?v=yENoJy3AKRc
   
 English
