@@ -58,3 +58,8 @@ Turkish
 English
   https://www.youtube.com/watch?v=DPIPC25xzUM
   
+Troubleshooting
+---------------
+::
+  In open source, no one can hear you scream;)
+  
