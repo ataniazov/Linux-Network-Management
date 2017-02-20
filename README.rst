@@ -5,8 +5,12 @@ Linux Network Management
 
 Kocaeli University Linux Network Management course lecture materials
 
-Free software license
+Software licenses
 ---------------------
+::
+
+  Free Software != Open Source
+
 
 https://en.wikipedia.org/wiki/Free_software_license
 
