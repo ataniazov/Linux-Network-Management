@@ -63,4 +63,4 @@ Troubleshooting
 ::
 
   In open source, no one can hear you scream;)
-  Please use Google before asking questions
+  Please use Google before asking questions.
