@@ -1,4 +1,5 @@
 Ata Niyazov 130201108
+GitHub Linki: https://github.com/ataniazov/Linux-Network-Management/blob/master/final-soru.md
 
 # Linux Ağ Yönetimi Soruları:
 
