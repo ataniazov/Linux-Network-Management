@@ -5,7 +5,7 @@ Ata Niyazov 130201108
 1. Aşağıdakilerden **ping** komutunun kullanım amaçlarından değildir:
 
 ```
-A) Sunucunun paketlerin kayıp oranı ile ilgili istatistik alma
+A) Sunucudan gelen paketlerin kayıp oranı ile ilgili istatistik alma
 B) İnternet bağlantısının hızını denetlemek
 C) Uzak makineye olan bağlantıyı denetlemek
 D) İstemciden sunucuya giden paketlerin RTT zamanını ölçme
@@ -22,13 +22,13 @@ Cevap: B) İnternet bağlantısının hızını denetlemek
 ```
 A) Yönlendirme tablosu bilgilerini görüntülemek
 B) Makine üzerindeki ağ arabirimlerini listelemek
-C) Sunucunun paketlerin kayıp oranı ile ilgili istatistik alma
+C) Sunucudan gelen paketlerin kayıp oranı ile ilgili istatistik alma
 D) Farklı protokollerin soketleri hakkında istatistikleri listeleme
 E) Varsayılan çıkış ağ geçidi (gateway) görüntülemek
 ```
 
 ```
-Cevap: C) Sunucunun paketlerin kayıp oranı ile ilgili istatistik alma
+Cevap: C) Sunucudan gelen paketlerin kayıp oranı ile ilgili istatistik alma
 ```
 
 
