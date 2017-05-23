@@ -8,7 +8,7 @@ Ata Niyazov 130201108
 A) Sunucunun paketlerin kayıp oranı ile ilgili istatistik alma
 B) İnternet bağlantısının hızını denetlemek
 C) Uzak makineye olan bağlantıyı denetlemek
-D) İstemciden sunucuya giden paketlerin  RTT zamanını ölçme
+D) İstemciden sunucuya giden paketlerin RTT zamanını ölçme
 E) İnternet bağlantısını denetleme
 ```
 
