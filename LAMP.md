@@ -16,6 +16,21 @@ sudo ufw allow ssh
 sudo ufw enable
 ```
 
+```bash
+sudo ufw allow http
+sudo ufw allow 80
+
+sudo ufw allow https
+sudo ufw allow 443
+
+sudo ufw allow ftp
+sudo ufw allow 21/tcp
+```
+
+```bash
+sudo ufw status verbose
+```
+
 ## Apache
 
 ```bash
