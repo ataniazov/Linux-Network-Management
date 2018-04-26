@@ -1,5 +1,21 @@
 # Ubuntu 16.04 LAMP installation.
 
+## Firewall (UFW)
+
+```bash
+sudo apt install ufw
+```
+
+```bash
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw allow ssh
+```
+
+```bash
+sudo ufw enable
+```
+
 ## Apache
 
 ```bash
